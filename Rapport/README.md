@@ -1,6 +1,6 @@
 🛡️ SOC Augmenté par IA - Serveur MCP pour la Cybersécurité
 
-Projet Transversal EC2LT - Groupe 4
+Projet Transversal EC2LT 
 
 📋 Description
 
