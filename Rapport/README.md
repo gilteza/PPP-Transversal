@@ -333,7 +333,7 @@ soc-augmente-ia-mcp/
 
 👥 Auteurs
 
-Groupe 4 — EC2LT (École Centrale des Logiciels Libres et de Télécommunications)
+Groupe 4 - EC2LT (École Centrale des Logiciels Libres et de Télécommunications)
 
 - Ousseynou KABA
 - Khalilou SYLLA
