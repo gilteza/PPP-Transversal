@@ -331,16 +331,6 @@ soc-augmente-ia-mcp/
 - Détection d'anomalies comportementales
 - Support de Streamable HTTP
 
-👥 Auteurs
-
-Groupe 4 - EC2LT (École Centrale des Logiciels Libres et de Télécommunications)
-
-- Ousseynou KABA
-- Khalilou SYLLA
-- Liel MAKASSO
-- El Yassine SALIM
-- Noela Nloka GRACE
-- El Hadj GUEYE
 
 📚 Références
 
